@@ -1,4 +1,4 @@
-awsのEC2インスタンスをterraformで起動
+awsのEC2インスタンスをterraformで起動。
 
 AWSCLIをインストールとIAMユーザー追加して使ってください。
 
